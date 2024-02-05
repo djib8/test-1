@@ -1,0 +1,250 @@
+body {
+    overflow-x : hidden;
+    overflow-y : hidden;
+    zoom : 90%;
+}
+
+mark {
+    background-color: transparent; /* Définir la couleur de fond sur transparent */
+    color: gray; /* Utiliser la couleur du texte par défaut */
+    border: none; /* Supprimer la bordure */
+    
+}
+
+.imagedusite
+{
+    background-image : url("imgfond.jpg");
+    background-attachment: fixed;
+    background-size : 100%;
+    width : 8000px;
+    height : 5000px;
+    position: relative;
+    bottom : 8px;
+    right : 8px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        
+}
+
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+a:hover{
+    text-shadow :10px 0px 30px rgb(255, 232, 194)  ;
+
+}
+.barre {
+    color : white;
+    /*------------------------------------------------------------*/    
+        position :relative;
+        bottom : 10px;
+        right : 10px;
+    /*------------------------------------------------------------*/       
+        background-color : gray;
+        opacity : 0.5;
+    /*------------------------------------------------------------*/       
+        padding : 50px;
+    /*------------------------------------------------------------*/   
+        font-size: 25px;
+      
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 700;
+        font-style: normal;  
+}
+
+
+/* DIV BARRE -----------------------------------------------------------*/
+
+.p
+{
+position :relative;
+left : 1000px;
+
+}
+.img
+{
+    position :relative;
+    width : 150px;
+    bottom : 150px;
+
+}
+
+a 
+{
+    text-decoration : none;
+    color : white;
+    display :inline;
+}
+
+.a0 
+{
+    padding : 10px;
+}    
+.a1
+{
+   padding : 10px;
+}
+.a2
+{
+    padding : 10px;
+    
+}
+.a3 
+{
+    padding : 10px;
+  
+}
+
+.a4
+{
+    padding : 10px;
+  
+}
+
+.a5
+{
+    padding : 10px;
+     
+}
+.a6
+{
+    border : 10px solid;
+    border-width : 10px;
+    border-color : white ;
+    border-right : 10px;
+    border-top : 10px;
+    border-bottom : 10px;
+    padding-left : 15px;
+}
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+.dp 
+{
+    position :relative;
+    top : 60px;
+}
+h1 {
+
+ 
+      color : white;
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 90px;
+        letter-spacing : 5px;
+        position : relative;
+        bottom : 170px;
+        left : 700px;
+        opacity: 0.5;
+}
+
+.parag1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :gray;
+    letter-spacing : 6px;
+    position : relative;
+    bottom: 170px;
+    left: 200px;
+}
+
+/*----------------ouvert 7/7---------------*/
+.ouvert
+{
+    display : inline;
+    font-family: "Racing Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    color : gray;
+    position : relative;
+    font-size : 30px;
+    left :30px;
+    bottom : 400px;
+    word-spacing : 5px; 
+}
+/*----------------ouvert 7/7---------------*/
+/*----------------Service client 7/7---------------*/
+.service
+{
+    display : inline;
+    font-family: "Racing Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    color : gray;
+    position : relative;
+    font-size : 30px;
+    left :1070px;
+    bottom : 400px;
+    word-spacing : 5px; 
+  
+}
+/*----------------Service client 7/7---------------*/
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+
+
+/* 3ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* 3ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* LISTE EN DEFINITION --------------------------------*/
+
+/* bordure de la définition */
+.sty{
+    background-color :black;
+    width : 8000px;
+    height : 150px;
+    border : 10px;
+    position : relative;
+    bottom : 70px;
+    opacity : 0.7;
+    
+    
+}
+.parag2
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :gray;
+    position : static;
+    bottom: 170px;
+    left: 150px;
+    
+}
+.placementdt
+{
+    position: relative;
+    left : 300px;
+    font-size : 25px;
+    letter-spacing : 10px;
+    font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 40px;
+}
+.placementdd
+{
+    position: relative;
+    left : 300px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    letter-spacing : 1px;
+    word-spacing : 6px;
+    letter-spacing :7px;
+    top : 8px;
+}
+
